@@ -80,3 +80,35 @@
 .Pricing__info p{
     margin-top: 50px;
 }
+.section__container{
+    width: 1200px;
+height: 664px;
+}
+.img{
+    width: 600px;
+height: 200px;
+}
+.text{
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 48px;
+    letter-spacing: 0%;
+     color:  #0A0A0A; 
+     margin-bottom: 90px;
+}
+.messege_wrap{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.text__2{
+    width: 322;
+height: 81;
+color: #0A0A0A;
+margin-bottom: 18px;
+}
+.messege_right{
+    background: #FAF9F7;
+
+}
